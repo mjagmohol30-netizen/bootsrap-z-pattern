@@ -1,0 +1,48 @@
+/* GENERAL */
+body {
+    font-family: Arial, sans-serif;
+}
+a{
+    text-decoration: none;
+    color: rgb(194, 193, 193);
+}
+#logo{
+    color: black;
+}
+/* HERO */
+.hero {
+    background-color: #f8f5f0;
+}
+
+
+/* HEIGHT */
+.min-vh-75 {
+    min-height: 75vh;
+}
+
+
+/* NAVBAR */
+.navbar-brand {
+    letter-spacing: 1px;
+}
+
+.nav-link {
+    margin-left: 15px;
+}
+
+
+/* BUTTON */
+.btn {
+    border-radius: 30px;
+    padding: 12px 25px;
+}
+
+
+/* IMAGES */
+img {
+    max-height: 500px;
+    object-fit: cover;
+}
+.navbar{
+    background-color: gray;
+}
