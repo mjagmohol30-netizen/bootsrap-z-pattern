@@ -1,6 +1,8 @@
 /* GENERAL */
 body {
     font-family: Arial, sans-serif;
+    color:white;
+    background-color: rgb(63, 62, 62);
 }
 a{
     text-decoration: none;
